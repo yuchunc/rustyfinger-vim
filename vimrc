@@ -17,3 +17,6 @@ noremap <CR> :nohlsearch<CR>
 
 " select ALL
 map <C-A> ggVG
+
+" Reindent Whole File
+map <F6> mzgg=G`z<CR>
