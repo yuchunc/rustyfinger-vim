@@ -100,3 +100,9 @@
 [submodule "bundle/vim-jsx"]
 	path = bundle/vim-jsx
 	url = git://github.com/mxw/vim-jsx.git
+[submodule "bundle/vim-phoenix"]
+	path = bundle/vim-phoenix
+	url = https://github.com/widatama/vim-phoenix.git
+[submodule "bundle/vim-elixir"]
+	path = bundle/vim-elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
