@@ -112,3 +112,6 @@
 [submodule "bundle/elm.vim"]
 	path = bundle/elm.vim
 	url = https://github.com/lambdatoast/elm.vim.git
+[submodule "bundle/vim-unimpaired"]
+	path = bundle/vim-unimpaired
+	url = https://github.com/tpope/vim-unimpaired.git
