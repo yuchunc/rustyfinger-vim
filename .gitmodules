@@ -73,9 +73,6 @@
 [submodule "bundle/vim-multiple-cursors"]
 	path = bundle/vim-multiple-cursors
 	url = git://github.com/terryma/vim-multiple-cursors.git
-[submodule "bundle/vim-airline"]
-	path = bundle/vim-airline
-	url = git@github.com:bling/vim-airline.git
 [submodule "bundle/ack.vim"]
 	path = bundle/ack.vim
 	url = git://github.com/mileszs/ack.vim.git
@@ -105,7 +102,7 @@
 	url = https://github.com/widatama/vim-phoenix.git
 [submodule "bundle/vim-elixir"]
 	path = bundle/vim-elixir
-	url = https://github.com/elixir-lang/vim-elixir.git
+	url = https://github.com/elixir-editors/vim-elixir.git
 [submodule "bundle/vim-clojure-static"]
 	path = bundle/vim-clojure-static
 	url = https://github.com/guns/vim-clojure-static.git
@@ -115,3 +112,12 @@
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/vim-airline-themes"]
+	path = bundle/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "bundle/lightline"]
+	path = bundle/lightline
+	url = https://github.com/itchyny/lightline.vim
+[submodule "bundle/vim-scala"]
+	path = bundle/vim-scala
+	url = https://github.com/derekwyatt/vim-scala

@@ -4,6 +4,7 @@
 " Eddie Kao
 " http://blog.eddie.com.tw
 " eddie@digik.com.tw
+let g:airline_powerline_fonts = 1
 
 runtime bundle/vim-pathogen/autoload/pathogen.vim
 filetype off
@@ -20,3 +21,4 @@ map <C-A> ggVG
 
 " Reindent Whole File
 map <F6> mzgg=G`z<CR>
+
