@@ -73,9 +73,6 @@
 [submodule "bundle/vim-multiple-cursors"]
 	path = bundle/vim-multiple-cursors
 	url = git://github.com/terryma/vim-multiple-cursors.git
-[submodule "bundle/ack.vim"]
-	path = bundle/ack.vim
-	url = git://github.com/mileszs/ack.vim.git
 [submodule "bundle/vim-addon-mw-utils"]
 	path = bundle/vim-addon-mw-utils
 	url = git://github.com/MarcWeber/vim-addon-mw-utils.git
@@ -121,3 +118,9 @@
 [submodule "bundle/vim-scala"]
 	path = bundle/vim-scala
 	url = https://github.com/derekwyatt/vim-scala
+[submodule "bundle/ag.vim"]
+	path = bundle/ag.vim
+	url = https://github.com/rking/ag.vim
+[submodule "bundle/vim-tsx"]
+	path = bundle/vim-tsx
+	url = https://github.com/tasn/vim-tsx
