@@ -124,3 +124,6 @@
 [submodule "bundle/vim-tsx"]
 	path = bundle/vim-tsx
 	url = https://github.com/tasn/vim-tsx
+[submodule "bundle/vim-terraform"]
+	path = bundle/vim-terraform
+	url = https://github.com/hashivim/vim-terraform
